@@ -1,0 +1,3 @@
+[submodule "themes/hugo-uilite-theme"]
+	path = themes/hugo-uilite-theme
+	url = https://github.com/kelvtan96/hugo-uilite
