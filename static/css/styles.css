@@ -343,7 +343,7 @@ section.pink {
   .sidebar {
     position: relative;
     width: 100%;
-    /* padding-left: 65px; */
+    padding-left: 65px;
   }
   .main-content {
     width: 100%;
