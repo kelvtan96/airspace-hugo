@@ -40,6 +40,7 @@
         color: #000;
         pointer-events: none;
         cursor: default;
+        background: rgb(255, 255, 255);
       }
 
       a.current-parent {
@@ -80,9 +81,9 @@
   }
 }
 
-// .nav .open>a {
-//   background: transparent;
-// }
+.nav .open>a {
+  background: transparent;
+}
 
 // Change Bootstrap's default navbar collapse breakpoint of 768px to 992px (=desktop); source: https://silvawebdesigns.com/how-to-change-the-bootstrap-navbar-breakpoint/
 @include desktop {
