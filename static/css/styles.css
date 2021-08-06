@@ -341,9 +341,9 @@ section.pink {
 
 @media (max-width: 767px) {
   .sidebar {
-    position: static;
+    position: relative;
     width: 100%;
-    padding-left: 65px;
+    padding-left: 0px;
   }
   .main-content {
     width: 100%;
